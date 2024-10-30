@@ -1,0 +1,10 @@
+setup.py
+modulos/Clase1.py
+modulos/__init__.py
+modulos/operacionesMatematicas/__init__.py
+modulos/operacionesMatematicas/operacionesBasicas/__init__.py
+modulos/operacionesMatematicas/operacionesBasicas/operacionesMate.py
+operacionesBasicas.egg-info/PKG-INFO
+operacionesBasicas.egg-info/SOURCES.txt
+operacionesBasicas.egg-info/dependency_links.txt
+operacionesBasicas.egg-info/top_level.txt
